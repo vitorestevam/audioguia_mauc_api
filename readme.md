@@ -77,7 +77,6 @@ Recebe uma lista de Guides
 
 Recebe um guide
 
-  
 ## Referências
 
  - [Como criar uma API com django rest framework I](https://medium.com/@marcosrabaioli/criando-uma-api-rest-utilizando-django-rest-framework-parte-1-55ac3e394fa)   
@@ -86,10 +85,5 @@ Recebe um guide
  - [Como impedir Requests de escrita não autenticados](https://www.django-rest-framework.org/api-guide/permissions/)
  
 ## Screenshots
-
-<<<<<<< HEAD
 ![get return](screenshot1.jpg)
 ![Admin page](screenshot2.jpg)
-=======
-  
->>>>>>> 8238e83870bbe285a6a3cb55550afcedd95b4cc8
