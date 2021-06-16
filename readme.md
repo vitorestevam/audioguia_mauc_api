@@ -85,5 +85,7 @@ Recebe um guide
  - [Como criar um diretório static no projeto](https://stackoverflow.com/questions/62737136/saving-image-file-in-particular-directory-in-django-rest-framework)
  - [Como impedir Requests de escrita não autenticados](https://www.django-rest-framework.org/api-guide/permissions/)
  
+## Screenshots
 
-  
+![get return](screenshot1.jpg)
+![Admin page](screenshot2.jpg)
