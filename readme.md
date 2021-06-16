@@ -11,8 +11,8 @@ REST API feita com [Django rest framework](https://www.django-rest-framework.org
 Instala o python
 
 [Direct download](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) 
-```bash
-  Siga as instrutruções do instalador
+```
+  Siga as instruções do instalador
 ```
 
 Instala as dependências
@@ -64,7 +64,7 @@ Recebe uma lista de Guides
 ### Get guide
 
 ```http
-  GET /api/items/{id}
+  GET /api/items/id
 ```
 
 | field | Type     | Description                       |
@@ -87,5 +87,9 @@ Recebe um guide
  
 ## Screenshots
 
+<<<<<<< HEAD
 ![get return](screenshot1.jpg)
 ![Admin page](screenshot2.jpg)
+=======
+  
+>>>>>>> 8238e83870bbe285a6a3cb55550afcedd95b4cc8
