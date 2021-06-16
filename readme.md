@@ -11,8 +11,8 @@ REST API feita com [Django rest framework](https://www.django-rest-framework.org
 Instala o python
 
 [Direct download](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) 
-```bash
-  Siga as instrutruções do instalador
+```
+  Siga as instruções do instalador
 ```
 
 Instala as dependências
