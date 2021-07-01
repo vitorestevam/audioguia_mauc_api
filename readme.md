@@ -6,7 +6,7 @@ REST API feita com [Django rest framework](https://www.django-rest-framework.org
 
 ## Como rodar usando docker
 
-acesse o [docker-docs.md](https://github.com/VitorEstevam/audioguia_mauc_api/blob/master/docker-docs.md) informações detalhadas
+acesse o [docker-docs.md](https://github.com/VitorEstevam/audioguia_mauc_api/blob/master/docker-docs.md) para informações detalhadas
 
 ## Como rodar localmente
 
