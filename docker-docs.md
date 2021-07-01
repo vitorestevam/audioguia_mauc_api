@@ -7,6 +7,9 @@ Para facilitar os testes e o futuro deploy da aplicação, decidimos testar o us
 
 Docker é um serviço para criar containers de aplicações. Com isso, as dependencias ficam especificadas em um aquivo e uma máquina virtual será criada para rodar nossa aplicação.
 
+## Por que usar docker?
+
+Com a Api em mãos percebemos que poderiamos passar pro problemas de hospedagem e de compartilhamento desse projeto entre diferentes máquinas por conta das dependências. A partir disso surgiu a Proposta de usar um container.
 
 ## Como rodar
 
