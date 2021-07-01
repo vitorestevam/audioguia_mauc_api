@@ -68,7 +68,7 @@ Recebe uma lista de Guides
 ### Get guide
 
 ```http
-  GET /api/items/id
+  GET /api/guides/id
 ```
 
 | field | Type     | Description                       |
