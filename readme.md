@@ -6,7 +6,7 @@ REST API feita com [Django rest framework](https://www.django-rest-framework.org
 
 ## Como rodar usando docker
 
-acesse o [docker-docs.md](https://github.com/VitorEstevam/audioguia_mauc_api/blob/master/docker-docs.md) para informações detalhadas
+acesse o [docker-docs.md](https://github.com/VitorEstevam/audioguia_mauc_api/blob/master/docs/docker-docs.md) para informações detalhadas
 
 ## Como rodar localmente
 
@@ -89,5 +89,5 @@ Recebe um guide
  - [Como impedir Requests de escrita não autenticados](https://www.django-rest-framework.org/api-guide/permissions/)
  
 ## Screenshots
-![get return](screenshot1.jpg)
-![Admin page](screenshot2.jpg)
+![get return](docs/screenshot1.jpg)
+![Admin page](docs/screenshot2.jpg)
