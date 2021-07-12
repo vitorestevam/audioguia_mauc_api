@@ -4,13 +4,18 @@
 REST API feita com [Django rest framework](https://www.django-rest-framework.org/) para ser usado na construção do app audio guia do Museu de Arte da Universidade Federal do Ceará.
 
 
+## Como rodar usando docker
 
+acesse o [docker-docs.md](https://github.com/VitorEstevam/audioguia_mauc_api/blob/master/docker-docs.md) para informações detalhadas
 
 ## Como rodar localmente
 
-Instala o python
-
-[Direct download](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) 
+<details>
+<summary>Estamos usando docker, mas você ainda pode rodar localmente</summary>
+<br>
+  
+Instala o [Python](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) 
+  
 ```
   Siga as instruções do instalador
 ```
@@ -39,8 +44,7 @@ Roda a aplicação
 ```bash
   python manage.py runserver
 ```
-
-
+</details>
 
   
 ## API Reference
@@ -64,7 +68,7 @@ Recebe uma lista de Guides
 ### Get guide
 
 ```http
-  GET /api/items/id
+  GET /api/guides/id
 ```
 
 | field | Type     | Description                       |
