@@ -57,6 +57,11 @@ Roda a aplicação
   password: admin
 ```
 
+### Documentação dos endpoints pelo postman
+  https://documenter.getpostman.com/view/15025870/TzmChYvb
+
+<details>
+  <summary>documentação detalhada ods endpoints</summary>
 ### Get all guides
 
 ```http
@@ -80,6 +85,8 @@ Recebe uma lista de Guides
 | `audio_description`      | `file` | audio descrição da obra|
 
 Recebe um guide
+  
+</details>
 
 ## Referências
 
