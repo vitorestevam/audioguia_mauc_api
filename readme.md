@@ -61,7 +61,7 @@ Roda a aplicação
   https://documenter.getpostman.com/view/15025870/TzmChYvb
 
 <details>
-  <summary>documentação detalhada ods endpoints</summary>
+  <summary>documentação detalhada dos endpoints</summary>
 ### Get all guides
 
 ```http
