@@ -1,5 +1,0 @@
-build:
-  docker:
-    web: .
-run:
-  web: python manage.py runserver
