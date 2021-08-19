@@ -3,10 +3,13 @@
 
 REST API feita com [Django rest framework](https://www.django-rest-framework.org/) para ser usado na construção do app audio guia do Museu de Arte da Universidade Federal do Ceará.
 
+## como hospedadar no Heroku
+
+acesse o [heroku-docs.md](./docs/heroku-docs.md) para informações detalhadas
 
 ## Como rodar usando docker
 
-acesse o [docker-docs.md](https://github.com/VitorEstevam/audioguia_mauc_api/blob/master/docs/docker-docs.md) para informações detalhadas
+acesse o [docker-docs.md](./docs/docker-docs.md) para informações detalhadas
 
 ## Como rodar localmente
 
