@@ -1,3 +1,5 @@
 django-cors-headers
 djangorestframework
 Pillow
+gunicorn
+django-heroku
