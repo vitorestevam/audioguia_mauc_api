@@ -1,1 +1,1 @@
-web: gunicorn maucproject.wsgi --log-file
+web:gunicorn maucproject.wsgi --log-file
