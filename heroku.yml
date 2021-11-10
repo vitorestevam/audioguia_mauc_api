@@ -1,6 +1,0 @@
-build:
-  docker:
-    web: dockerfile
-run:
-  web: python manage.py runserver 0.0.0.0:$PORT
-  # web: gunicorn maucproject.wsgi --log-file
