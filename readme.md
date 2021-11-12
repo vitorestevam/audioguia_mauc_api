@@ -7,10 +7,6 @@ REST API feita com [Django rest framework](https://www.django-rest-framework.org
 
 acesse o [heroku-docs.md](./docs/heroku-docs.md) para informações detalhadas
 
-## Como rodar usando docker
-
-acesse o [docker-docs.md](./docs/docker-docs.md) para informações detalhadas
-
 ## Como rodar localmente
 
 <details>
