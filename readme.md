@@ -10,7 +10,7 @@ acesse o [heroku-docs.md](./docs/heroku-docs.md) para informações detalhadas
 ## Como rodar localmente
 
 <details>
-<summary>Estamos usando docker, mas você ainda pode rodar localmente</summary>
+<summary>Como rodar localmente</summary>
 <br>
   
 Instala o [Python](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) 
