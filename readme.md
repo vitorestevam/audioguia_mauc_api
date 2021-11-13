@@ -3,7 +3,7 @@
 
 REST API feita com [Django rest framework](https://www.django-rest-framework.org/) para ser usado na construção do app audio guia do Museu de Arte da Universidade Federal do Ceará.
 
-## como hospedadar no Heroku
+## Como hospedadar no Heroku
 
 acesse o [heroku-docs.md](./docs/heroku-docs.md) para informações detalhadas
 
@@ -98,7 +98,7 @@ Recebe um guide
 ![get return](docs/screenshot1.jpg)
 ![Admin page](docs/screenshot2.jpg)
 
-<details>
-<summary>Sugestões de melhoria</summary>
-Hospedar o banco de forma separada para evitar que os deploys quebrem os dados que tão salvos na pasta static
-</details>
+
+## Sugestões de melhoria
+
+- Hospedar o banco de forma separada para evitar que os deploys quebrem os dados que tão salvos na pasta static
