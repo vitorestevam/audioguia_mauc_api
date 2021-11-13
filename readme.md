@@ -97,3 +97,8 @@ Recebe um guide
 ## Screenshots
 ![get return](docs/screenshot1.jpg)
 ![Admin page](docs/screenshot2.jpg)
+
+<details>
+<summary>Sugestões de melhoria</summary>
+Hospedar o banco de forma separada para evitar que os deploys quebrem os dados que tão salvos na pasta static
+</details>
