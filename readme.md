@@ -5,7 +5,7 @@ REST API feita com [Django rest framework](https://www.django-rest-framework.org
 
 ## Onboarding
 
-Antes de começar, dê uma olhada no [onboarding](/on_boarding.md) para entender como começar os repositórios.
+Antes de começar, dê uma olhada no [onboarding](/on_boarding.md) para entender como começar a trabalhar nos repositórios.
 
 ## Como rodar localmente
   
