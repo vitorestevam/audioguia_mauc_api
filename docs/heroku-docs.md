@@ -1,3 +1,8 @@
+## Aviso
+O deploy no heroku não é efetivo, pois os arquivos estáticos são apagados diáriamente. é necessária a hospedagem do banco em um ambiente externo
+
+https://help.heroku.com/K1PPS2WM/why-are-my-file-uploads-missing-deleted
+
 # Django rest framework + heroku 
 
 Hospedar a aplicação no heroku é simples. o Aquivo "Procfile" vai ser o resposável pela configuração na plataforma.
