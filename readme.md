@@ -3,15 +3,7 @@
 
 REST API feita com [Django rest framework](https://www.django-rest-framework.org/) para ser usado na construção do app audio guia do Museu de Arte da Universidade Federal do Ceará.
 
-## Como hospedadar no Heroku
-
-acesse o [heroku-docs.md](./docs/heroku-docs.md) para informações detalhadas
-
 ## Como rodar localmente
-
-<details>
-<summary>Como rodar localmente</summary>
-<br>
   
 Instala o [Python](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) 
   
@@ -43,7 +35,6 @@ Roda a aplicação
 ```bash
   python manage.py runserver
 ```
-</details>
 
 ## super user
 
@@ -52,6 +43,10 @@ Para acessar o dashboard e gerenciar o Guides você precisa criar um superuser
   python manage.py createsuperuser
 ```
 https://docs.djangoproject.com/en/1.8/intro/tutorial02/
+
+## Como hospedadar no Heroku
+
+acesse o [heroku-docs.md](./docs/heroku-docs.md) para informações detalhadas
 
 ## API Reference
 
