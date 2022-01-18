@@ -45,7 +45,14 @@ Roda a aplicação
 ```
 </details>
 
-  
+## super user
+
+Para acessar o dashboard e gerenciar o Guides você precisa criar um superuser
+```
+  python manage.py createsuperuser
+```
+https://docs.djangoproject.com/en/1.8/intro/tutorial02/
+
 ## API Reference
 
 ### Página de admin
