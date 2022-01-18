@@ -3,6 +3,10 @@
 
 REST API feita com [Django rest framework](https://www.django-rest-framework.org/) para ser usado na construção do app audio guia do Museu de Arte da Universidade Federal do Ceará.
 
+## Onboarding
+
+Antes de começar, dê uma olhada no [onboarding](/on_boarding.md) para entender como começar os repositórios.
+
 ## Como rodar localmente
   
 Instala o [Python](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.exe) 
