@@ -15,13 +15,6 @@ Instala o [Python](https://www.python.org/ftp/python/3.9.5/python-3.9.5-amd64.ex
   Siga as instruções do instalador
 ```
 
-Instala as dependências
-
-```bash
-  pip install django
-  pip install djangorestframework
-```
-
 Clona o projeto
 
 ```bash
@@ -34,21 +27,44 @@ Acessa o diretório do projeto
   cd maucproject
 ```
 
+Instala as dependências
+
+```bash
+  pip install -r ./requirements.txt
+```
+
 Roda a aplicação
 
 ```bash
   python manage.py runserver
 ```
 
-## super user
+Veja a saída
+
+``` bash
+System check identified no issues (0 silenced).
+September 08, 2022 - 22:22:52
+Django version 3.2.15, using settings 'maucproject.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+```
+
+vá para http://127.0.0.1:8000/admin (use a url que a saída acima mostrar)
+
+Entre com o super user padrão com o usuário e senha  ```admin```, ```admin```
+
+## Como criar um super user
 
 Para acessar o dashboard e gerenciar o Guides você precisa criar um superuser
 ```
   python manage.py createsuperuser
 ```
+
+Por padrão você pode usar ```admin```, ```admin``` nos primeiros acessos. Recomendo criar um novo e apagar o padrão.
+
 https://docs.djangoproject.com/en/1.8/intro/tutorial02/
 
-## Como hospedadar no Heroku
+## Como hospedadar no Heroku (Heroku não possui mais plano free)
 
 acesse o [heroku-docs.md](./docs/heroku-docs.md) para informações detalhadas
 
